@@ -8,12 +8,10 @@
     width: 100%;
     min-height: 100vh;    
     padding: 10px;
-    background: linear-gradient(135deg, #153677, #4e085f);
-    /* deixando o fundo gay para o anderson 
-    background-image: url(assets/grad.avif);
+    background-image: url(../assets/rick.jpg);
     background-size: cover; 
     background-position: center;
-    background-repeat: no-repeat;*/
+    background-repeat: no-repeat;
 }
 
 .todo-app {
