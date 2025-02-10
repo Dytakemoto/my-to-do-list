@@ -8,7 +8,7 @@
     width: 100%;
     min-height: 120vh;    
     padding: 10px;
-    background-image: url(assets/spider.gif);
+    background-image: url(...assets/spider.gif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
